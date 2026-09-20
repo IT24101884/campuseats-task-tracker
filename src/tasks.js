@@ -1,5 +1,5 @@
 ﻿// CampusEats task list
-const tasks = [   //This task list is clear and easy to understand. The sample tasks are suitable for the initial version.
+const tasks = [   
   "Design the menu screen",
   "Build the orders API",
   "Add user login",
